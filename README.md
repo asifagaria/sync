@@ -1,4 +1,4 @@
-# sync
+# rsync
 
   apt-get install rsync -y
   
